@@ -1,0 +1,9 @@
+flask
+gunicorn
+numpy
+tensorflow-cpu
+keras
+numpy
+pandas
+scikit-learn
+werkzeug
